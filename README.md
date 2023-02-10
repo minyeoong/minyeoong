@@ -2,6 +2,7 @@
 I am studying at Korea University and interested in math and computer science.
 
 - 🌱 I’m currently learning...
+- 
 Coursera Mathematics for Machine Learning 
 1. linear ALgebra( certificate: https://coursera.org/share/b2ade156dbb5d0415275a2e83cbbc354)
 
