@@ -1,5 +1,12 @@
 ### Hi there 👋
+I am studying at Korea University and interested in math and computer science.
 
+- 🌱 I’m currently learning...
+Coursera Mathematics for Machine Learning 
+1. linear ALgebra( certificate: https://coursera.org/share/b2ade156dbb5d0415275a2e83cbbc354)
+
+Coursera Machine Learning Specialization
+1. Supervised Machine Learning: Regression and Classification(certificate: https://coursera.org/share/633323a81fff7e6b607c0f2935474335)
 <!--
 **minyeoong/minyeoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
