@@ -4,7 +4,7 @@ I am studying at Korea University and interested in math and computer science.
 🌱 I’m currently learning...
 
 1. Coursera Mathematics for Machine Learning 
-- linear ALgebra( certificate: https://coursera.org/share/b2ade156dbb5d0415275a2e83cbbc354)
+- Linear Algebra( certificate: https://coursera.org/share/b2ade156dbb5d0415275a2e83cbbc354)
 
 2. Coursera Machine Learning Specialization
 - Supervised Machine Learning: Regression and Classification(certificate: https://coursera.org/share/633323a81fff7e6b607c0f2935474335)
