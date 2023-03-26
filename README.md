@@ -9,6 +9,7 @@ I am studying at Korea University and interested in math and computer science.
 
 2. Coursera Machine Learning Specialization
 - Supervised Machine Learning: Regression and Classification(certificate: https://coursera.org/share/633323a81fff7e6b607c0f2935474335)
+- Advanced Learning Algorithms(certificate: https://coursera.org/share/eaebe6e31f73fc6827cc8990b49991e6)
 
 3. Python Baekjoon study
 
